@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dkvjkdslvm
+=======
+ewfkjwenfwkehf
+>>>>>>> d18aa4998047c97297064b4d8fa9ee2ffd3f6eea
